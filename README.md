@@ -1,10 +1,7 @@
 # David Bookstaber
-Quantitative Analyst & Fintech Engineer.
+Engineer & quantitative analyst.
 
-This historical profile has been consolidated. Please visit my active software 
-repositories and professional projects at my primary handle: **@dbookstaber**.
+This historical profile has been consolidated: Current repositories are at [@dbookstaber](https://github.com/dbookstaber).
 
-### Professional Ecosystem:
-* **Primary Website:** [davidbookstaber.com](https://davidbookstaber.com)
-* **Active Engineering Repositories:** [github.com/dbookstaber](https://github.com/dbookstaber)
-* **Financial and Technical Writing:** [Substack](https://bookstaber.substack.com)
+* **Website:** [davidbookstaber.com](https://davidbookstaber.com)
+* **Writing:** [Substack](https://bookstaber.substack.com)
